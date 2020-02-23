@@ -18,20 +18,20 @@ Find out the live weather data in the current location of the device as well as 
 - How to use the Geolocator package to get live location data for both iOS and Android.
 - How to use the TextField Widget to take user input.
 
-![steps to take Geolocalisation](https://alligator.io/flutter/geolocator-plugin/)
+[steps to take Geolocalisation](https://alligator.io/flutter/geolocator-plugin/)
 
-![Http Status Code Cheat paper](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+[Http Status Code Cheat paper](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
 
 ## packages used:
 
-![Geolocator](https://pub.dev/packages/geolocator)
+[Geolocator](https://pub.dev/packages/geolocator)
 
-![Http](https://pub.dev/packages/http)
+[Http](https://pub.dev/packages/http)
 
-![Loading Spins](https://pub.dev/packages/flutter_spinkit)
+[Loading Spins](https://pub.dev/packages/flutter_spinkit)
 
 ## APIs:
 
-![Open Weather](https://openweathermap.org/)
+[Open Weather](https://openweathermap.org/)
 
 ## obelouch 1337

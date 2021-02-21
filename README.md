@@ -1,8 +1,12 @@
 # Clima ☁
 
+Bluit using **Flutter**
+
 A Beautiful weather app inspired by the beautiful designs made by [Olia Gozha](https://dribbble.com/shots/4663154-).
 
 Find out the live weather data in the current location of the device as well as the weather for any city you can think of!
+
+![Clima](/ressources/clima.jpg)
 
 ## What i learned
 
@@ -24,14 +28,18 @@ Find out the live weather data in the current location of the device as well as 
 
 ## packages used:
 
-[Geolocator](https://pub.dev/packages/geolocator)
+- [Geolocator](https://pub.dev/packages/geolocator)
+- [Http](https://pub.dev/packages/http)
+- [Loading Spins](https://pub.dev/packages/flutter_spinkit)
 
-[Http](https://pub.dev/packages/http)
+## API
 
-[Loading Spins](https://pub.dev/packages/flutter_spinkit)
+- [Open Weather](https://openweathermap.org/)
 
-## APIs:
+## Owner
 
-[Open Weather](https://openweathermap.org/)
+- Oussama Belouche 1337
 
-## obelouch 1337
+#
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
